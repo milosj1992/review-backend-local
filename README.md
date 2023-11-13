@@ -1,5 +1,5 @@
 # review-backend-local
-this is .env file 
+# this is .env file 
 DB_HOST=sql8.freemysqlhosting.net
 DB_USER=sql8661087
 DB_NAME=sql8661087
